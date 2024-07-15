@@ -1,0 +1,19 @@
+span.picoCapitalLetter{
+  font-weight: bold;
+  font-size: 1.1em;
+}
+
+#picoHelp h5 {
+  font-size: 0.9em;
+  font-weight: bold;
+}
+
+#picoHelp p {
+  font-size: 0.8em !important;
+  text-align: justify !important;
+}
+
+#picoSubmit,
+#picoReset {
+  margin-inline-end: .5em;
+}
